@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\ООР\Solid\Solid_4\bin\Debug\Solid_4.exe.config
+C:\Users\user\Desktop\ООР\Solid\Solid_4\bin\Debug\Solid_4.exe
+C:\Users\user\Desktop\ООР\Solid\Solid_4\bin\Debug\Solid_4.pdb
+C:\Users\user\Desktop\ООР\Solid\Solid_4\obj\Debug\Solid_4.exe
+C:\Users\user\Desktop\ООР\Solid\Solid_4\obj\Debug\Solid_4.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\bin\Debug\Solid_4.exe.config
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\bin\Debug\Solid_4.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\bin\Debug\Solid_4.pdb
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\obj\Debug\Solid_4.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\obj\Debug\Solid_4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\obj\Debug\Solid_4.exe
+C:\Users\user\Desktop\2018_2019\ООП\Модуль 1\5\Solid\Solid\Solid_4\obj\Debug\Solid_4.pdb
+C:\Users\serge\Downloads\Solid\Solid_4\bin\Debug\Solid_4.exe.config
+C:\Users\serge\Downloads\Solid\Solid_4\bin\Debug\Solid_4.exe
+C:\Users\serge\Downloads\Solid\Solid_4\bin\Debug\Solid_4.pdb
+C:\Users\serge\Downloads\Solid\Solid_4\obj\Debug\Solid_4.csproj.AssemblyReference.cache
+C:\Users\serge\Downloads\Solid\Solid_4\obj\Debug\Solid_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge\Downloads\Solid\Solid_4\obj\Debug\Solid_4.csproj.CoreCompileInputs.cache
+C:\Users\serge\Downloads\Solid\Solid_4\obj\Debug\Solid_4.exe
+C:\Users\serge\Downloads\Solid\Solid_4\obj\Debug\Solid_4.pdb
+C:\Users\Denis\Desktop\Solid\Solid_4\bin\Debug\Solid_4.exe.config
+C:\Users\Denis\Desktop\Solid\Solid_4\bin\Debug\Solid_4.exe
+C:\Users\Denis\Desktop\Solid\Solid_4\bin\Debug\Solid_4.pdb
+C:\Users\Denis\Desktop\Solid\Solid_4\obj\Debug\Solid_4.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Solid\Solid_4\obj\Debug\Solid_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Solid\Solid_4\obj\Debug\Solid_4.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Solid\Solid_4\obj\Debug\Solid_4.exe
+C:\Users\Denis\Desktop\Solid\Solid_4\obj\Debug\Solid_4.pdb
